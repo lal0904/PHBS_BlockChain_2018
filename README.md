@@ -123,6 +123,8 @@ Distribute(reward);
 Finish；
 Return 0；
 ```
+![markdown]
+(https://github.com/lal0904/PHBS_BlockChain_2018/blob/master/算法.png)
 
 # 9. Conclusion
 In this research, we propose a blockchain-based secure crowdsourcing system. This is a crowdsourcing system that does not rely on third-party platforms and can effectively protect users' privacy. With the help of technologies such as decentralization, consensus mechanism and executable intelligent contract in the blockchain network, problems such as high service cost, possible leakage of user privacy and vulnerability of centralized data storage in the existing crowdsourcing system can be solved. This system starts from the characteristic of decentralization and tries to replace and improve the traditional mode. In the absence of a third party platform, it is necessary to solve the problems of task release, personnel matching and work verification. To solve the above problems, we use smart contracts that can be automatically executed in the blockchain to replace the original third-party work. Users only need to pay for the maintenance of the blockchain, which can also reduce costs. In the design of workflow, we retain all the functions of the original crowdsourcing system, and on this basis, we propose a user privacy protection scheme to minimize the historical data saved by users in the network. This system stores the user information with the false name and the user portrait, even if the database is attacked, also cannot match the above data with the real identity. Through simulation test, we find that the decentralized crowdsourcing system proposed in this paper can maintain the original crowdsourcing function and successfully compress the user information.
