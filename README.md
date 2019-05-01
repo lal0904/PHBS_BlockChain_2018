@@ -1,4 +1,4 @@
-#PHBS_BlockChain_2018
+# PHBS_BlockChain_2018
 ## The disigh of a safe crowdsourcing system based on blockchain
 ### BY ANLEI LIU
 # 1. Introduction
