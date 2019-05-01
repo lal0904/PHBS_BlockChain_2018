@@ -18,7 +18,9 @@ Aiming at the widespread popular centralized crowdsourcing system on the market,
 **Requster**: The initiator of the task, you need to submit the introduction, requirements and rewards of the task in the block. Create a **task contract** (TC). At the same time as the upload task, the issuer needs to pay a certain token to pay for the miner's maintenance of the blockchain and the compensation of the contractor to complete the task.
 **Receiver**: The recipient of the task can apply to complete the tasks publicized on the network. Every user on the network has its own label that records its work history. When the contractor applies to complete a job and creates a **work contract** (WC), the contract will be judged according to the label. After completing the task, the receiving party can get paid.
 **Miner**: The maintainer of the blockchain, the miner adds past transaction records to the blockchain and validates a new block through a consensus agreement. They ensure the normal operation of the blockchain and earn mining and mining rewards by solving mathematical problems. Each user in the system can play the role of a miner, participating in and getting paid when the computer is rich in computing power.
+
  ![Image text](https://github.com/lal0904/PHBS_BlockChain_2018/blob/master/角色.png)
+ 
 The blockchain-based security crowdsourcing model proposed in this paper consists only of the blockchain network and nodes. The participants do not need to trust any platform or transaction object. This self-trust mechanism ensures the stability and security of the system.
 
 
